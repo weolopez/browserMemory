@@ -1,4 +1,4 @@
-import { EntityDB } from './entity-db.bundled.esm.js';
+import { EntityDB } from './entity-db.js';
 
 // DOM Elements
 const chatMessages = document.getElementById('chatMessages');
